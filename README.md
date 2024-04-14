@@ -1,11 +1,11 @@
 # Binge
 
 # Contributors
+- Israel Ekhor-Obakpolor - [GitHub](https://github.com/israelobk)
 - Johnbosco Ezeani - [Github](https://github.com/JohnboscoEzeani)
 - Oluwapelumi Olalekan - [GitHub](https://github.com/pelumi-guy)
 - Elizabeth Okhomina - [GitHub](https://github.com/okhominalizzy)
 - John Olayemi - [GitHub](https://github.com/Johnayo7)
-- Israel Ekhor-Obakpolor - [GitHub](https://github.com/israelobk)
 - Chikezie Ethelbert - [GitHub](https://github.com/Ethelbert-C)
 - Ebuwa Iguobaro - [GitHub](https://github.com/JuliaEbuwa)
 - Ukamaka Nnebuo - [GitHub](https://github.com/nnebuoukamaka)
